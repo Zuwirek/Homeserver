@@ -1,0 +1,3 @@
+https://allegro.pl/oferta/sonoff-dongle-plus-e-centralka-bramka-zigbee-hub-zigbee2mqtt-home-assistant-16546732850?offerId=16546732850&inventoryUnitId=pr8WPRx8wohnrnVECwteZA&adGroupId=OTkwMGIyNzktYTlkNy00NjkyLWE5YzgtM2JkYzZmNWZhYjNiAA&campaignId=ODBmMjhkNzUtMmZmZS00ZTlkLTg4NzYtMDBhNWFjNTk2MzZkAA&clientId=MTI1NDI4MTg3AA&sig=20a1b0638071ca9a441cfbcb9b3c54e7&utm_feed=cba59b59-8d0f-48d0-98a0-e9d1127523e2&utm_source=google&utm_medium=ads&gad_source=1&gad_campaignid=23234396107&gbraid=0AAAABB9rMYFpSHk5M7LCmrRLDaKV3CwLT&gclid=CjwKCAiA8vXIBhAtEiwAf3B-g_voMtOWRUCat3N8lXSstzvUr0fG5r57RGnQlKc-P0EajvmVHx8MQxoCo5QQAvD_BwE
+
+^ link do przejściówki na zigbee protokół
